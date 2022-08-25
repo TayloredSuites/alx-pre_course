@@ -1,0 +1,1 @@
+This is the read me for the first exercise in the created directory
